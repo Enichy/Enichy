@@ -12,8 +12,6 @@
 - ⭐ What do I prefer code ? **Procedural and IA projects.**
 
 - 📫 How to reach me : **swann220406@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
