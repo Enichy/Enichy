@@ -9,16 +9,12 @@
 
 - 🌱 I’m currently learning at **Epitech !**
 
-- ❓ What do I plan to do ? **Finish my Degree at Epitech.**
-
 - ⭐ What do I prefer code ? **Procedural and IA projects.**
 
 - 📫 How to reach me : **swann220406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swann peri--lunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swann peri--lunal" height="30" width="40" /></a>
-<a href="https://discord.gg/enichy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="enichy_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
