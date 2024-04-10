@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=matrix" alt="enichy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a> </p>
 
 - 🔭 I’m currently working on **Java Plugins and Github Actions on my free time.**
 
