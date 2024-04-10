@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enichy&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="enichy" /></p>
 
+![Wave](Bottom.svg)
