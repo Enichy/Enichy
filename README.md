@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy" alt="enichy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=enichy" alt="enichy" /></a> </p>
 
 - 🔭 I’m currently working on **Java Plugins and Github Actions on my free time.**
 
