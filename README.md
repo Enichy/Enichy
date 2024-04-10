@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enichy</h1>
 <h3 align="center">A passionate low-level developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
