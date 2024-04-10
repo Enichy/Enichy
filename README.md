@@ -75,11 +75,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a> </p>
 
-- 🔭 I’m currently working on **Java Plugins and Github Actions on my free time.**
+- 🔭 During my spare time, I'm immersed in Java Plugins and exploring the world of GitHub Actions.
 
-- 🌱 I’m currently learning at **Epitech !**
+- 🌱 My current educational journey is unfolding at Epitech!
 
-- ⭐ What do I prefer code ? **Procedural and IA projects.**
+- ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
 - 📫 How to reach me : **swann220406@gmail.com**
 <p align="center">
