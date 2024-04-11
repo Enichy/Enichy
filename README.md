@@ -88,6 +88,20 @@
 - ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
 - 📫 How to reach me : **swann220406@gmail.com**
+
+<details>
+  <summary>Click to expand</summary>
+  
+  <div style="border: 1px solid black; padding: 10px;">
+  
+  Your content goes here.
+  
+  </div>
+  
+</details>
+
+
+
 <p align="center">
 </p>
 
