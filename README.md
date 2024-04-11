@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
+## About me
+
 - 🔭 During my spare time, I'm immersed in programming Java plugins for Minecraft, among other things!
 
 - 🌱 My current educational journey is unfolding at Epitech!
@@ -85,7 +87,10 @@
 
 - ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
-- 📫 How to reach me : **swann220406@gmail.com**
+## 📫 Link with me 📎
+
+- Discord : <b> enichy_ </b>
+- Linkedin : 
 
 <details>
   <summary>🏆 <b>Trophies</b> 🏆</summary>
