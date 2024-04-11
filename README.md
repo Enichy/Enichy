@@ -95,3 +95,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enichy&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="enichy" /></p>
 
 ![Wave](Bottom.svg)
+
+<p align="center">
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Enichy%20🌻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+
+</p>
