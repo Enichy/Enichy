@@ -88,7 +88,7 @@
 - 📫 How to reach me : **swann220406@gmail.com**
 
 <details>
-  <summary>Trophies</summary>
+  <summary>🏆 <b>Trophies</b> 🏆</summary>
   <div style="border: 1px solid black; padding: 10px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a>
   </div>
