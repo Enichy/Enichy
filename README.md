@@ -61,7 +61,7 @@
 </p>
 
 <h3 align="center">
-  ~ Others
+  💡 Others 🧰
 </h3>
 
 <p align="center">
