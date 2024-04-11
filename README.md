@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-## 📚 Learning / Performing my experience 📖
+## 📚 What am I Learning / What I try to Perform 📖
 - C++
 - C
 - Java
