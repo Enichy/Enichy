@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
 </p>
 
-## About me
+## ⬇️ About me ⬇️
 
 - 🔭 During my spare time, I'm immersed in programming Java plugins for Minecraft, among other things!
 
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-## 📚 Learning / Performing my experience
+## 📚 Learning / Performing my experience 📖
 - C++
 - C
 - Java
