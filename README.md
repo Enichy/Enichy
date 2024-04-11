@@ -73,8 +73,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a> </p>
-
 - 🔭 During my spare time, I'm immersed in programming Java plugins for Minecraft, among other things!
 
 - 🌱 My current educational journey is unfolding at Epitech!
@@ -90,17 +88,11 @@
 - 📫 How to reach me : **swann220406@gmail.com**
 
 <details>
-  <summary>Click to expand</summary>
-  
+  <summary>Trophies</summary>
   <div style="border: 1px solid black; padding: 10px;">
-  
-  Your content goes here.
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a>
   </div>
-  
 </details>
-
-
 
 <p align="center">
 </p>
