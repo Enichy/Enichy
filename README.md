@@ -75,9 +75,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a> </p>
 
-- 🔭 During my spare time, I'm immersed in Java Plugins and exploring the world of GitHub Actions.
+- 🔭 During my spare time, I'm immersed in programming Java plugins for Minecraft, among other things!
 
 - 🌱 My current educational journey is unfolding at Epitech!
+
+- 🤖 Experimenting with machine learning algorithms, training models to automate tasks and enhance processes.
+
+- 🎮 Developing interactive experiences in the realm of game development, bringing immersive worlds to life.
+
+- ⚙️ Embarking on DevOps practices, streamlining development workflows and ensuring seamless deployment processes.
 
 - ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
