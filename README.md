@@ -5,15 +5,6 @@
 </p>
 
 <h3 align="center">
-  📡 Os ⚙️
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-<h3 align="center">
   🛡️ Database 🔑
 </h3>
 
@@ -88,6 +79,11 @@
 - ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
 ## 🛡️ What do I use ⚙️
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
 
 ## 📫 Link with me 📎
 
