@@ -70,6 +70,13 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
+## 📚 Learning / Performing my experience
+- C++
+- C
+- Java
+- JBDC
+- Docker
+
 ## 📫 Link with me 📎
 
 - Discord : <b> enichy_ </b>
