@@ -67,7 +67,7 @@
 ## 📫 Link with me 📎
 
 - Discord : <b> enichy_ </b>
-- Linkedin : 
+- Linkedin : https://fr.linkedin.com/in/swann-peri-lunal-36134a2b1
 
 <details>
   <summary>🏆 <b>Trophies</b> 🏆</summary>
