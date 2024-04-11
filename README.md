@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  ~ Os
+  📡 Os ⚙️
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  ~ Database
+  🛡️ Database 🔑
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="center">
-  ~ IDE
+  🐚 IDE 🌸
 </h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="center">
-  ~ Software
+  🌿 Software 🌊
 </h3>
 
 <p align="center">
