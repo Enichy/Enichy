@@ -71,7 +71,7 @@
 </p>
 
 ## 📚 What am I Learning / What I try to Perform 📖
-| X | Language / FrameWork / Library |
+| ⚙️ | Language / FrameWork / Library |
 | --- | --- |
 | Learning | C++ |
 | Learning | OpenGL |
