@@ -19,11 +19,6 @@
 - ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
 
 ## 🛡️ What do I use ⚙️
-### Os :
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
 
 | ⚙️ | Language / FrameWork / Library / Os / Databases / IDES / Softwares / Others |
 | --- | --- |
