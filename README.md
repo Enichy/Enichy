@@ -71,11 +71,15 @@
 </p>
 
 ## 📚 What am I Learning / What I try to Perform 📖
-- C++
-- C
-- Java
-- JBDC
-- Docker
+| X | Language / FrameWork / Library |
+| --- | --- |
+| Learning | C++ |
+| Learning | OpenGL |
+| Learning | JavaFX |
+| Performing | C |
+| Performing | Java |
+| Performing | JBDC |
+| Performing | Docker |
 
 ## 📫 Link with me 📎
 
