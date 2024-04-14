@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enichy</h1>
-<h3 align="center">A passionate low-level developer from France</h3>
+<h3 align="center">A passionate Software and Game developer from France</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
 </p>
