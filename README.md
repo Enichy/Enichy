@@ -32,13 +32,14 @@
 ## 📚 What am I Learning / What I try to Perform 📖
 | ⚙️ | Language / FrameWork / Library |
 | --- | --- |
-| Learning | C++ |
-| Learning | OpenGL |
-| Learning | JavaFX |
 | Performing | C |
+| Performing | Python |
 | Performing | Java |
 | Performing | JBDC |
 | Performing | Docker |
+| Learning | C++ |
+| Learning | OpenGL |
+| Learning | JavaFX |
 
 ## 📫 Link with me 📎
 
