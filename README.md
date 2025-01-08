@@ -37,6 +37,7 @@
 | Performing | Java |
 | Performing | JBDC |
 | Performing | Docker |
+| Performing | LLM |
 | Learning | C++ |
 | Learning | OpenGL |
 | Learning | JavaFX |
