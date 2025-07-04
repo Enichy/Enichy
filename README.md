@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enichy</h1>
 <h3 align="center">A passionate developer from France</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
-</p>
 
 ## 🌟 About Me 🌟
 - 🎓 **Epitech** – forging expertise through code since 2023.
@@ -43,6 +40,9 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enichy&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
 </p>
 
 ---
