@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Enichy</h1>
-<h3 align="center">A passionate Software and Game developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enichy&label=Profile%20views&color=dc8add&style=plastic" alt="enichy" />
 </p>
 
-## ⬇️ About me ⬇️
-
-- 🔭 During my spare time, I'm immersed in programming Java plugins for Minecraft, among other things!
-
-- 🌱 My current educational journey is unfolding at Epitech!
-
-- 🤖 Experimenting with machine learning algorithms, training models to automate tasks and enhance processes.
-
-- 🎮 Developing interactive experiences in the realm of game development, bringing immersive worlds to life.
-
-- ⚙️ Embarking on DevOps practices, streamlining development workflows and ensuring seamless deployment processes.
-
-- ⭐ When it comes to coding, my heart lies with procedural projects and delving into the realm of artificial intelligence.
+## 🌟 About Me 🌟
+- 🎓 **Epitech** – forging expertise through code since 2023.
+- 🚀 Writing **modern C++** every day; performance is poetry.
+- 🛠️ Author of **EasyGL** – a lightweight framework that tames raw OpenGL.
+- 🎮 Crafting immersive worlds, procedural magic and gameplay feel.
+- 🤖 Training ML models to automate tedium and kindle creativity.
+- ⚙️ Practising DevOps rituals for painless ships and happy rollbacks.
 
 ## 🛡️ What do I use ⚙️
 
@@ -46,10 +40,24 @@
 | Learning | Vulkan |
 | Learning | JavaFX |
 
-## 📫 Link with me 📎
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enichy&show_icons=true&theme=radical" alt="stats" />
+</p>
 
-- Discord : <b> enichy_ </b>
-- Linkedin : https://fr.linkedin.com/in/swann-peri-lunal-36134a2b1
+---
+
+## 💬 Guestbook
+> Have something to say? [Open an issue →](https://github.com/enichy/enichy/issues/new?template=guestbook.md)  
+> Your message will appear here after approval!
+
+---
+
+## 🔗 Connect
+[![Discord](https://img.shields.io/badge/Discord-enichy_%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/...)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swann_Peri--Lunal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/swann-peri-lunal-36134a2b1)
+
+---
 
 <details>
   <summary>🏆 <b>Trophies</b> 🏆</summary>
@@ -57,16 +65,3 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enichy&theme=tokyonight" alt="enichy" /></a>
   </div>
 </details>
-
-<p align="center">
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enichy&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="enichy" /></p>
-
-![Wave](Bottom.svg)
-
-<p align="center">
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Enichy%20🌻&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
-
-</p>
