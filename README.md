@@ -33,13 +33,17 @@
 | ⚙️ | Language / FrameWork / Library |
 | --- | --- |
 | Performing | C |
+| Performing | C++ |
+| Performing | OpenGL |
 | Performing | Python |
+| Performing | Transformer |
 | Performing | Java |
 | Performing | JBDC |
 | Performing | Docker |
 | Performing | LLM |
-| Learning | C++ |
-| Learning | OpenGL |
+| Performing | Forge |
+| Performing | Spigot |
+| Learning | Vulkan |
 | Learning | JavaFX |
 
 ## 📫 Link with me 📎
